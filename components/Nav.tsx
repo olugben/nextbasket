@@ -25,7 +25,7 @@ const Nav = ({ isProductPage }: INavProp) => {
 
   // const dispatch = useDispatch();
   // const toggleDropDown = () => dispatch(toggleView());
-c
+
   return (
     <nav
       className={`w-full  bg-white 
