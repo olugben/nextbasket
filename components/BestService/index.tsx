@@ -13,7 +13,7 @@ const BestService = () => {
           the best service
         </h3>
         <p className="leading-[20px] max-w-[240px] md:max-w-full mx-auto tracking-[0.2px] text-sm text-center mt-[10px] font-medium text-[#737373]">
-          Problems trying to resolve the conflict between{" "}
+      
         </p>
       </div>
       <div className="max-w-[1270px] mx-auto grid md:grid-cols-[repeat(auto-fill,minmax(250px,1fr))] lg:grid-cols-[repeat(auto-fill,minmax(380px,1fr))] w-full gap-[30px]">

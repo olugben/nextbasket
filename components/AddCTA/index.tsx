@@ -14,13 +14,12 @@ const AddCTA = () => {
           Designing Better Experience
         </h5>
         <h6 className="text-[40px] font-bold leading-[50px] tracking-[0.2px] text-center md:max-w-[570px]">
-          Problems trying to resolve the conflict between{" "}
+        
         </h6>
         <div className="flex items-center justify-center flex-col md:flex-col-reverse gap-[30px]">
           <p className="text-2xl text-[#23856D] font-bold">$16.48</p>
           <p className="text-mainGrey text-sm  leading-[20px] tracking-[0.2px] text-center md:max-w-[447px]">
-            Problems trying to resolve the conflict between the two major realms
-            of Classical physics:{" "}
+      
           </p>
         </div>
         <div className="flex items-center justify-center">

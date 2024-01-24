@@ -15,6 +15,7 @@ const Layout = ({ children, title = "This is the default title" }: Props) => {
   const router = useRouter();
 
   const isProductPage = router?.pathname.includes("/product");
+  
 
   return (
     <>
@@ -28,9 +29,13 @@ const Layout = ({ children, title = "This is the default title" }: Props) => {
       {/* <CartOverlay />
       <WishListOverlay /> */}
       {children}
+    
+
+
       <SocialsAndFooter />
     </>
   );
 };
 
 export default Layout;
+
